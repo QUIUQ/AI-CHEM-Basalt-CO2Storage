@@ -1,17 +1,15 @@
 # AI-CHEM-Basalt-CO2Storage
-## 1. Dataset
-Folder: base_model/
+## 1. base_model
 
 This folder contains the base model built on TOUGHREACT, which serves as the foundation for generating simulation data.
 
-Folder: run_data_code/   
+## 2. Folder: run_data_code/      
 
 This folder contains scripts for producing the full dataset.
 
 gene0: The main script used to generate the complete dataset from the base model setup.
 
-## 2. DL_Model
-Folder: Model/
+## 3. Model
 
 This folder includes:
 
