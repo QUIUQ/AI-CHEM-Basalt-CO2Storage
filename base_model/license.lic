@@ -1,0 +1,94 @@
+#HOST Host Name ANY 52100          
+#ISV theng theng.exe           
+LICENSE theng pyrosim 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=491ea405fd sig="60P0
+  44RJV3KNFQ2DMEDMGTH7U0B2F3QBWQGJA0GN02NMMWREP85U5C2Y3RKDC6TTXWM4PC66
+  F4"
+LICENSE theng petrasim 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=9b1ef6a563 sig="60Q0
+  4580K5AK6B3GUSY2U01CU2APVWA95CPTCKWB08AG1D1DGU7XYFGX3A7C06JPEG20Y9B8
+  9K6JR"
+LICENSE theng tough 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=5d1eb85d62 sig="60Q0
+  4580H4NTYJT0ABAF9PDEQXB8SFMBHG5ETESA08AG1F06C0WSU4T6JGCFHNRDTCRDCPEJ
+  F6QT0"
+LICENSE theng tough2-mp 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=991ef4810b sig="60PG
+  4580GCJ6A5HG9NM1PVB5BDF2RR84YWHV420608A77XHQRAM9K96TT3NJWJTH7PUS9C7B
+  5SS0"
+LICENSE theng tough2-mp-eos1 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=3e1e99fb68 sig="60P0
+  451K453JK1GUJK14Q459VSB2NEXSGD8U63022HMJYF8JQTBJX4HK772AQS6E7M3073VP
+  8V"
+LICENSE theng tough2-mp-eos2 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=3f1e9a6d63 sig="60P0
+  45194BSKNRWGGG5MMB1XSRKYTUS0JVPHGUR22GRX0PG66QTBJR0NWU7RU3TDMPYMD4UF
+  UV"
+LICENSE theng tough2-mp-eos2n 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=ad1e081e59 sig="60PG
+  4580JF7WC4RJJNYMRAMHNUBS7J936GHVCAJ208A4C9CQJVGBNFEPJ3HNDV951688U8R2
+  HQN0"
+LICENSE theng tough2-mp-eos3 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=401e9b19ff sig="60PG
+  4520KQ0VG56SNTHY0P6HX518TQBHD5MURJG22M0BWGVFRSVYHJ3K5RY4MY6QVRS59U4N
+  TFCG"
+LICENSE theng tough2-mp-eos4 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=411e9c52fe sig="60PG
+  451WCHG1TJ1AWWCDB1DNP92KXPDNH0RC4QR22M0BN9U2AEKN1H3ANVAK6DTC6NH30YWD
+  1NC0"
+LICENSE theng tough2-mp-eos5 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=421e9dfd63 sig="60PG
+  4580KF7M11716J2H9Q7AVNDYP1D0T2770VED08A6785RTRRXPRMGS0YJUJKB77M05KE2
+  MJNG"
+LICENSE theng tough2-mp-eos6 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=431e9e3503 sig="60Q0
+  4580M7YFX3UWDN25EXT93QXD6UDJAMESV8Q008AG11N192FCCNEAEG1PYVXP0ACEEUQ5
+  7JM92"
+LICENSE theng tough2-mp-eos7 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=441e9f2504 sig="60P0
+  451UPNYNHK7PTTY88PX1M3N9E2PBVPNAKU022HAFAX9K7JQ69VSCT86VS598RPBM4156
+  K8"
+LICENSE theng tough2-mp-eos7r 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=b61e1113f4 sig="60P0
+  451P7TTPTDANTA499XPQUD7E36KX99R5Y6R22GVE1P7DR9JPA007K9D93CM1FWYMRQN1
+  SR"
+LICENSE theng tough2-mp-eos9 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=461ea1a225 sig="60P0
+  452R8XBGGJ2PJYA8GPQSHH0MH8W1891BDP822GFNNR65TDC3DYPQVC933MBK6XV797S2
+  78"
+LICENSE theng tough2-mp-eco2n 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=9d1ef81133 sig="60Q0
+  4580HUGJJEBMGE4GD2BGKKCM9WNMPEJ14RMP08AG11HNBXVAYX03NGGCW860XA7JHW78
+  MRCWA"
+LICENSE theng tough2-mp-ewasg 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=dd1e389335 sig="60PG
+  4580KENE2JMJ93RXXAG6VG8GPM1CUR5RRBW508A41QYP9WUNC8S3TWS9CM6C6GJRAE2A
+  PSG0"
+LICENSE theng tough2-mp-tmvoc 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=ef1e4a0a87 sig="60PG
+  4580JM0V37H4QPCU86EWUW8SU8AM90MUACR108A096CAG9V3XRTXDJRHR5XP7BV2PU4C
+  1NMG"
+LICENSE theng itough 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=c61e21ce5a sig="60P0
+  451ST8Q5GCY8GS170CW194XM5PJEW316MUG22HU4D77AN27AFGHS0B6D28NUVA8KBN75
+  J0"
+LICENSE theng tmvoc 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=5f1eba465e sig="60PG
+  4580KHXQ2A5X9BK12Y59HFVHMYYGRRYPS6NC08A66ADC456BM5SA58W6B90Q3N8MMY1T
+  JF80"
+LICENSE theng toughreact 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=6c1ec7e15f sig="60Q0
+  4580HT53ND2U4GUYNKV9V2CSMRC808UMD8GR08AG16EPNWADSUU3E4DXHJNBV5EP7S2P
+  UQ0SR"
+LICENSE theng tetrad 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=ba1e15662b sig="60PG
+  4515CDFUN5SRFMGMBEGKRAG204GY2JNY3M022M09KMQHFA231D38CRX65V4SM545RHWQ
+  H23G"
+LICENSE theng toughfx 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=3b1e96cc60 sig="60P0
+  453A5F05N4G2P4UUNNNDNMJN54MC9P6UB7G22HNHMWMSH0PSVRNGYRDHP4SCCVBC1012
+  KV"
+LICENSE theng pathfinder 2050.10 permanent uncounted hostid=ANY
+  issuer=WhiteDeath issued=1-oct-2020 replace _ck=5b1eb6c35b sig="60P0
+  451Y8WXJ3GMU2US5WMBNVSA2EVGAC0Y6R7022GK5GUETARY9EJENWUY6T926HJRE656W
+  X0"
