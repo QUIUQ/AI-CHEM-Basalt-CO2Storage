@@ -3,7 +3,7 @@
 
 This folder contains the base model built on TOUGHREACT, which serves as the foundation for generating simulation data.
 
-## 2. Folder: run_data_code/      
+## 2. Folder: run_data_code      
 
 This folder contains scripts for producing the full dataset.
 
